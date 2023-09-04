@@ -9,7 +9,7 @@ Add these parameters to the url: `url`, `project_token`, `observation_matrix_id`
 Example
 
 ```
-http://jlpereira.github.io/playground-distinguish?url=https://myserver/api/v1&project_token=1234&observation_matrix_id=1
+https://jlpereira.github.io/distinguish-playground?url=https://myserver/api/v1&project_token=1234&observation_matrix_id=1
 ```
 
 ### ¡¡¡DO NOT USE THIS FOR PRODUCTION OR PUBLICATIONS!!!
